@@ -23,6 +23,7 @@ public class StaticVariable {
 		System.out.println("After callind add method:"+s.a);
 		s.print();
 		System.out.println("After calling print method:"+s.a);
+		System.out.println("Static variable as modified");
 	
 	}
 
