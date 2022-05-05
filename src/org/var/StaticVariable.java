@@ -24,6 +24,7 @@ public class StaticVariable {
 		s.print();
 		System.out.println("After calling print method:"+s.a);
 		System.out.println("Static variable as modified");
+		System.out.println("B Branch added few lines");
 	
 	}
 
