@@ -22,5 +22,7 @@ public static void main(String[] args) {
 	InstanceVariable i2 = new InstanceVariable();
 	System.out.println("After new object creation"+i2.a);
 	System.out.println("B Branch added few lines");
+	System.out.println("A branch add few lines of code");
+
 }
 }
